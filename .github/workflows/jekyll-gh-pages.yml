@@ -34,11 +34,11 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./dashboard
-          destination: ./_site
+          destination: ./output
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./_site
+          path: ./output
 
   # Deployment job
   deploy:
