@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.e16596e1.js",
+    "static/js/787.5349606e.chunk.js": "/static/js/787.5349606e.chunk.js",
+    "static/media/finschia_docs_logo_horizontal.svg": "/static/media/finschia_docs_logo_horizontal.9cc38a233742ce9a6f22ce57ea02fa2a.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.e16596e1.js.map": "/static/js/main.e16596e1.js.map",
+    "787.5349606e.chunk.js.map": "/static/js/787.5349606e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e16596e1.js"
+  ]
+}
